@@ -1,0 +1,28 @@
+{
+  "name": "Getting-Started-with-Firebase-9",
+  "version": "1.0.0",
+  "description": "All course files for the \"Getting Started with Firebase 9\" tutorial series on the Net Ninja YouTube channel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sdavletshina/Getting-Started-with-Firebase-9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sdavletshina/Getting-Started-with-Firebase-9/issues"
+  },
+  "homepage": "https://github.com/Sdavletshina/Getting-Started-with-Firebase-9#readme",
+  "devDependencies": {
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "firebase": "^9.6.1"
+  }
+}
